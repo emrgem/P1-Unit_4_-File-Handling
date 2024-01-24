@@ -1,31 +1,15 @@
-﻿The Evolution of Programming Languages in Past 10 Years
-
-
+The Evolution of Programming Languages in Past 10 Years
 In 2010, these were the top programming languages. In 2015, the popularity rankings had changed.By 2019, the rankings had changed again. Evolution of Programming Languages
 Programming languages continue to evolve in both industry and research, as systems and applications change. Today there is a wide variety of programming languages with different languages, syntax, and features. Developers can now use a language based on either the client's preference or their own. Language technology developed between 1967 and 1997, giving birth to some of the most popularly used programming languages even now. The swift growth of the internet in the mid-1990s was a major boost to the programming language world.
-
-
 Let's look at the history of programming languages. 
-
-
 Evolution of Programming Languages
-
-
 In 2010, these were the top programming languages. 
 Java and JavaScript were the clear favorites, with PHP just behind. C++, C, Python, and C# clustered just below.
-
-
 In 2015, the popularity rankings had changed.
 While Java and JavaScript remained at the top, Python had moved up to displace PHP for third place. The cluster just below became PHP, C#, C++, and C. Notably, R, a language for statistical computing, entered the top ten, reflecting the increasing importance of data analysis and data mining. Objective-C, a language for Apple platforms, was joined by Swift, a newer Apple language.
-
-
 By 2019, the rankings had changed again. 
 Now Python is the most popular language, with JavaScript overtaking Java into second place. The rankings below the top three are no longer clustered: there is a clear preference order between C#, PHP, C++, and C. Swift and Objective-C fell behind R.
-
-
 Let’s look at the top programming languages: 
-
-
 Python
 Java 
 Javascript 
@@ -37,47 +21,27 @@ R
 Swift 
 Objective C
 And many others just didn't become as popular as the rest. It took years for these languages to reach this level, with many enhancements and useful features added to it.
-
-
 Evolution of Programming Languages
 1. Python
 Writing code, in many of the programming languages on this list, is complicated even for professional programmers. Created in 1991, Python became so popular because it's a very user-friendly language. It is a high-level programming language with an emphasis on code readability, vast libraries, and framework. Some of the noteworthy features of Python are: 
-
-
 Open-source programming language
 Extensive support modules and community development
 Easy integration with web services
 User-friendly data structures
 GUI-based desktop applications
-
-
 2. Java
 On the other hand, Java, another high-level programming language that was developed in the 1990s, is the most popular among modern programmers. Java was initially developed for cable boxes and hand-held devices. However, it has upgraded so much that today, it is almost everywhere, from the World Wide Web to smartphones to computers. It is one of the best programming languages and is widely used today after Python. 
-
-
 3. JavaScript
 JavaScript is the next most popular programming language which built the internet. Created in just ten days in 1995, it is a feature-rich, object-based scripting language. It is one of the most used programming languages even today, and almost all the websites on the internet today are built on JavaScript. It has gone through a massive update and modernization over the last few years. The major JavaScript releases have added a lot of modern features, and the JavaScript today has vast differences compared to the Javascript of the previous decade.
-
-
 4. C#
 The evolution of programming languages continues with each passing year. C#, created by Microsoft, is known as one of the highly powerful programming languages in the Dot NET framework. It is an adaptable language that gives a comprehensive programming foundation that applies to Java, Objective-C, PHP, and more. 
-
-
 5. PHP
 PHP, similar to Python, is another programming language developed by a single programmer as a side project during the 90s. Over time, more functionality was added to the PHP product, and it evolved into a full-fledged programming language. However, PHP seems to be losing its popularity and appeal with the rise of JavaScript. 
-
-
 6. C++
 Inspired by C, Bjarne Stroustrup initially developed C++ as an extension to the C language. Although, over time, C++ has evolved into a multi-model, general-purpose programming language. It is mostly used in Microsoft products and desktop applications. Over the last decade, C++ has grown into one of the most well-known and widely used programming languages. 
-
-
 7. C
 During 1969–1973, Dennis Ritchie, a Bell lab engineer, developed a procedural, general-purpose programming language that directly compiled to a machine language. It has also easily influenced most of the other languages on this list. The C Programming Language gives the programmer complete control over the underlying hardware. 
-
-
 8. R
 R is another widely-used programming language used for building statistical software as well as data analysis by statisticians and data miners. R programming language, along with its libraries, executes a wide variety of graphical as well as statistical techniques. 
-
-
 9. Swift
 Swift is a general-purpose, compiled programming language that also offers high developer productivity. Swift was developed mainly to replace Objective-C in the Mac and iOS platforms. One of its USPs and the reason for its popularity is its language design. With a simpler, precise, and clean syntax as well as developer ergonomic features, it offers a more productive alternative to Objective-C in the Apple Ecosystem.
