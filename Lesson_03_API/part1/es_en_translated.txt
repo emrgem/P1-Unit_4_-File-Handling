@@ -1,0 +1,117 @@
+a la derecha:to
+a la izquierda:the
+abraza:right
+abre:to
+abril:the
+agarra:left
+agosto:hug
+alrededor de la clase:open
+amarillo(a):April
+anaranjado:grab
+anda:August
+apaga:around
+arriba:the
+arriba de:class
+así que:yellow
+atrapa:orange
+azul:walk
+baja:turn
+bebe:off
+besa:up
+blanco(a):up
+brinca:so
+bueno(a):catch
+camina:blue
+chueco(a):lower
+domingo:baby
+dos veces:kiss
+echa:white
+el agua:jump
+el automóvil:good
+el menú:walk
+el muchacho/el chico:crooked
+el niño:Sunday
+el nombre:twice
+el ombligo:throw
+el papel:the
+el pascado/el pez:water
+el tazón:the
+el techo:car
+el tenedor:the
+empuja:menu
+enero:the
+entra en:boy
+escribe:the
+escritorio:child
+escucha:the
+está cansado(a):name
+está feliz:the
+está triste:navel
+febrero:the
+fuerte:paper
+grande:the
+grita:fish
+junio:the
+la boca:bowl
+la botella:the
+la cabeza:roof
+la camisa:the
+la campana suena:fork
+la cara:pushes
+la carne:January
+la casa:enters
+la corbata:writes
+la cuchara:desk
+la cámara:listens
+la dirección:is
+la fruta:tired
+la leche:is
+la lengua:happy
+la pluma/el bolígrafo:is
+la puerta:sad
+la radio:February
+la soda:loud
+la sopa:big
+la taza:shout
+la tele/la television:June
+la toalla:the
+la uña:mouth
+la ventana:the
+las tijeras:bottle
+le da:the
+levanta:head
+limpio(a):the
+llora:shirt
+los dientes:the
+los ojos:bell
+los pantalones:rings
+los zapatos:the
+lunes:face
+orranca:the
+para:meat
+para adelante:the
+para atris:house
+pega:the
+pela:tie
+pequeño:the
+pone:spoon
+pregunta:the
+prende (la luz):camera
+recto(a):the
+rojo(a):direction
+rompe:the
+rosa/rosado(a):fruit
+rápido:the
+ríe:milk
+saca fotos de:the
+saca la lengua:tongue
+tose:the
+un batido:pen
+un rectángulo:the
+un triangulo:door
+una vez:the
+verde:radio
+viernes:the
+¿Dónde está ______?:soda
+¿Quién es?:the
+¿Qué es?:soup
