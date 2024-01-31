@@ -1,0 +1,372 @@
+Innovation:a novel or improved idea, device, product, etc. or the development thereof
+Prototype:A preliminary sketch of an idea or model for something new. It's the original drawing from which something real might be built or created.
+Bit:A contraction of "Binary Digits". A bit is the single unit of information in a computer, typically represented as 0 or 1.
+Binary:A way of representing information using only two options.
+Bandwidth:maximum transmission capacity of the device expressed typically in metric multiples of bits per second
+Bit Rate:The numbers of Bits that are conveyed or processed per unit of time. EX: 8bits/per second.
+Latency:the amount of time it takes for a bit to travel from sender to receiver
+Protocol:A set of rules governing the exchange or transmission of data between devices.
+American Standard Code for Information Interchange (ASCII):The universally recognized raw text format that any computer can understand.
+Code:To write instructions for a computer.
+Requests for Comments (RFC):Documents are how standards and protocols are defined and published for all to see on the IETF website.
+Internet:a tangible physical system that is made to move information
+IP Address:A number assigned to any item that is connected to the internet.
+Packets:small chunks of information that have been carefully formed from larger chunks of information for the purpose of transmitting through a network
+Router:A computer which receives messages travelling across a network and redirects them towards their intended destinations based on the addressing information included with the messages.
+Transmission Control Protocol (TCP):Provides reliable, ordered, and error-checked delivery of a stream of packets on the internet. TCP is tightly linked with IP and is usually seen as TCP/IP in writing.
+Domain named system (DNS):The internet's system for converting alphabetic names into numeric IP addresses.
+Hypertext Transfer Protocol (HTTP):Is the protocol used by the world wide web. It describes how messages are formatted and interchanged, and how web servers respond to commands.
+Abstractions:Reducing information and detail to focus on essential characteristics.
+Server:A computer that awaits and responds to requests for data.
+Client:A computer that requests data stored on a computer.
+HTTPS:a protocol for secure communication over a computer network which is widely used on the Internet.
+Digital Certificate:an electronic document used to prove ownership of a public key.
+DDoS:pertaining to or being an incident in which a network of computers floods an online resource with high levels of unwanted traffic so that it is inaccessible to legitimate service requests
+HTTP Request:When you type a URL in your browser, your computer (the client) needs to "ask" the server that is storing the data and images for the web page to return its contents so your browser can display it.
+HTTP Response:When a server receives an HTTP request it will respond with a message of its own. Once again, the response will be sent entirely in ASCII-text and must be correctly formatted.
+Electricity, light and radio waves:3 ways we send information
+Fiber optic cable:a thread of glass engineered to reflect light
+Net Neutrality:the principle that all Internet traffic should be treated equally by Internet Service Providers
+Byte:8 bits
+Nibble:4 bits
+Heuristic:a problem solving approach (algorithm) to find a satisfactory solution where finding an optimal or exact solution is impractical or impossible
+Lossless:a data compression algorithm that allows the original data to be perfectly reconstructed from the compressed data
+Image:A type of data used for graphics or pictures
+Metadata:data that describes other data. For example, a digital image my include metadata that describe the size of the image, number of colors, or resolution
+Pixel:short for "picture element" it is the fundamental unit of a digital image, typically a tiny square or dot which contains a single point of color of a larger image
+RGB:color model using varying intensities of red, green, and blue to produce colors
+Lossy:data compression method that uses inexact approximations, discarding some data to represent the content
+Abstraction:pulling out specific differences to make one solution work for multiple problems
+Aggregation:a computation in which rows from a data set are grouped together and used to compute a single value of more significant meaning or measurement. i.e. Average, Count, Sum
+Pivot Table:in most spreadsheet software it is the name of the tool used to create summary tables
+Adware:A form of spyware. Collects information about the user or user activities in order to display advertisements in a web browser.
+Algorithm:A set of instructions for solving a problem.
+Application:Refers to a complete and self-contained program that helps the user accomplish a specific task.
+Artificial Intelligence:A branch of computer science with the focus on how to endow computers with capabilities of human intelligence. Can be seen as an attempt to model aspects of human thought on computers
+Autoresponder:A program that automatically delivers information
+Backup and Recovery:The combination of procedures that can restore lost data in the event of hardware or software failure
+Backward Compatible:Refers to the new versions of software or hardware that is compatible with earlier models or versions of the same product.
+Bandwidth:Measures how much data you can send in a given amount of time.
+Bit:Also called binary digit, it refers to a digit number, either a 0 or a 1.
+Bookmark:A facility for marking a specific place in electronic documentation to enable easy return to it. It is used in several types of software, including PDF files, electronic help files and tutorials within a program or online.
+Bug:An error, flaw, mistake, failure, or fault in a computer program that prevents it from working as intended, or produces an incorrect result.
+Byte:Is equal to eight bits.
+C Programming Language:A general-purpose, procedural, imperative computer programming language developed in the early 1970s by Dennis Ritchie for use on the Unix operating system.
+Client:A piece of computer hardware or software that accesses a service made available by a server.
+Cloud Computing:Shared computing services provided on demand by computers accessed over the Internet.
+Code:Programming Instructions.
+Compatible:Refers to the ability of one device or program to work with another device or program.
+Computational Science:The field of study concerned with constructing mathematical models and numerical solution techniques and using computers to analyze and solve scientific and engineering problems.
+Computer Animation:Also known as Computer generated imagery (CGI), it is the art of creating moving images via the use of computers.
+Computer Science:An academic field that studies the theoretical foundations of information and computation and their implementation and application in computer systems.
+Configuration:The way a system is set up, or the assortment of components that make up the system. Can refer to either hardware or software, or the combination of both.
+Copyright:A set of exclusive rights regulating the use of a particular expression of an idea or information, including but not limited to art designs, computer software, books, documents etc.
+Cyber Security:Measures taken to protect a computer or computer system against unauthorized access or attack.
+Daemon:A computer program that runs in the background, rather than under the direct control of a user; they are usually instantiated as processes.
+Data:Information stored on a computer.
+Data Cleansing:The process of detecting and removing and/or correcting a database to increase data accuracy, reduce redundancy and enhance consistency of different sets of data that have been merged from separate databases.
+Dehardwarization:Refers to the trend in design of new computer hardware which tends to eliminate as many hardware components as possible and supplanting their functionality with software.
+Domain Name Service:A directory service that maps names to IP addresses.
+Domain Name:The part of the URL that identifies a particular web page.
+Grayware:Refers to a malicious software or code that is considered to fall in the "grey area" between normal software and a virus. A term for which all other malicious or annoying software such as adware, spyware, trackware, and other malicious code and malicious shareware fall under.
+Hacker:A person who uses technology to gain unauthorized access to data.
+Hardware:A set of physical computer objects. Like a mouse.
+Host Computer:A centralized server that delivers specific services to other networked computers.
+HTTP:The protocol by a browser program to communicate with a server program over the Internet.
+Icon:A visual display of a program.
+Information Technology (IT TECH):A broad subject concerned with technology and other aspects of managing and processing information, especially in large organizations. In particular, it deals with the use of electronic computers and computer software to convert, store, protect, process, transmit, and retrieve information.
+Interface:A defined means for a system to communicate with other systems. It is a boundary between a system and its environment providing ways of providing the system inputs and receiving outputs.
+Internet:A network that accommodates several computers to facilitate exchange and transfer of data.
+IP:Packet delivery through an IP address to identify packets that include both a header and the message data itself.
+IP Address:A unique string of numbers separated by periods.
+Java:An object-oriented programming language developed by Sun Microsystems. It resembles C++, but was designed to avoid some of C++'s most notorious flaws.
+Kernel:The central part in most computer operating systems for the management of the system's resources and the communication between hardware and software components
+Knowbot:A program that will search a system or a network, such as the Internet, seeking and retrieving information on behalf of a user and reporting back when it has found it
+LAN:A network spanning a local area.
+Latency:Measures the amount of time that it takes a message to go from its source to its destination.
+Legacy System:An "antiquated" existing computer system or application program which continues to be used because the user does not want to replace or redesign it. Integration with newer systems may also be difficult because new software may use completely different technologies.
+Linux:A free and open source Unix-like computer operating system. Unlike proprietary operating systems such as Windows or Mac OS, all underlying source code is available to the general public for anyone to use, modify, and redistribute freely.
+Loop Optimization:Refers to the process in computer compiling to optimize loops in the programs. Most execution time of a scientific program is spent on loops. Thus a lot of compiler analysis and optimization techniques have been developed to make the execution of loops faster.
+Macintosh Operating System (Mac):A series of graphical user interface-based operating systems developed by Apple Computer for their Macintosh line of computer systems. It was first introduced in 1984 with the original Macintosh 128K.
+Memory:The internal storage location where data and information is stored on a computer.
+Metadata:Refers to information about data itself; perhaps the origin, size, formatting or other characteristics of a data item.
+Network:A group of computers connected to each other in order to send and receive data.
+NSA:A United States government institution that collects data for security purposes.
+Numerical Anaylsis:The study of algorithms for the problems of continuous mathematics (as distinguished from discrete mathematics).
+Operating System:Provides the software platform required for various applications to run on.
+Packet:The unit of data that is routed on a packet-switched network.
+Packet Switched Network:The type of network in which relatively small units of data are routed through a network based on the destination address contained within each datagram.
+PDF:The native file format for Adobe Systems' Acrobat. Can describe documents containing any combination of text, graphics, and images in a device-independent and resolution independent format.
+Plug-in:A type of computer programs that interacts with a main application (a web browser or an email program, for example) to provide a certain, usually very specific, function.
+Program:In computer science, it is called software, applications program, or system software, and is an organized list of instructions that, when executed, causes the computer to behave in a predetermined manner.
+Port:A connecting component that enables two computers to allow data sharing. Like a USB.
+Programming Language:An artificial language that can be used to control the behavior of a machine (often a computer). Often have syntactic and semantic rules used to define meaning.
+RAM:A configuration of storage cells that hold data. It can also be processed by a central processing unit.
+ROM:It is a storage system that saves data permanently.
+Router:A networking device that forwards data packets between computer networks.
+Software:The programs used to direct the operations of a computer.
+TCP:A connection-oriented transport layer protocol.
+TCP/IP:The two main sets of protocols used to communicate across the internet.
+Website:A location connected to the Internet that maintains one or more pages on the World Wide Web.
+URL:The address of a website.
+Virus:A program uploaded onto your computer by an unknown that hinders processes.
+Amplitude:The height of a periodic wave which is a measure of its loudness.
+Analog representation:Objects can take on any continuous value.
+Arithmetic overflow:An attempt to represent an integer that exceeds the maximum allowable value.
+ASCII:An acronym for the American Standard Code for Information Interchange; ASCII is an international standard for representing textual information in the majority of computers.
+Binary number system:A base-2 positional numbering system.
+Bit:A binary digit, 0 or 1.
+Bit depth:The number of bits used to encode each sample during digitization.
+Boolean expression:An expression that can evaluate only to true or false.
+Boolean logic:A branch of mathematics which operates on the values true and false.
+Byte:Eight bits.
+Circuit:A collection of logic gates (1) that transforms a set of binary inputs into a set of binary outputs and (2) where the values of the outputs depend only on the current values of the inputs; more properly called a combinational circuit.
+Circuit construction algorithm:An algorithm that allows us to go from a specification of what we wish to accomplish to a circuit that carries out those specifications.
+Circuit optimization:The process of reducing the number of gates needed to implement a circuit.
+Compression ratio:Measures how much a compression scheme has reduced the storage requirements of the data.
+Control circuit:A circuit used to make decisions and control the flow of execution.
+Data Compression:The process of reducing the number of bits required to represent a sound or image.
+Decoder:A control circuit that has N input lines numbered 0, 1, 2, ..., N - 1 and 2N output lines numbered 0, 1, 2, 3, ..., 2N - 1.
+Digital representation:The values for a given object are drawn from a finite set, such as the letters {A, B, C, ..., Z} or a subset of integer {0, 1, 2, 3, ..., MAX}
+Digitized:Converted from a continuous value to a single numeric value.
+Fault-Tolerant Computing:The ability to continue functioning even in the presence of the failure of one or more components.
+Frequency:The total number of cycles per unit time measure in cycles/second, also called hertz.
+Gate:An electronic device that operates on a collection of binary inputs to produce a binary output.
+Gigabyte:One billion bytes.
+Hardware design:The process of designing the low level components of a computer, including arithmetic and control circuits
+Logic design:Another term for hardware design as it uses the capabilities of Boolean logic to carry out the design process.
+Lossless compression:No information is lost in the compress, and it is possible to reproduce exactly the original data.
+Lossy compression:Compress data in a way that does not guarantee that all the information in the original data can be fully ad completely recreated.
+Multiplexor:A control circuit that has 2N input lines and 1 output line.
+Period:The time it takes for a single wave in a periodic wave function
+Positional Numbering System:A numbering system in which each position of a number represents a value times the radix to a given power.
+Raster graphics:A method for storing an image in which a sequence of picture elements is digitized and stored one row at a time, from left to right.
+RGB encoding scheme:A method for encoding color that digitizes the contribution of the red, green, and blue components of each pixel
+Sampling:At fixed time intervals, the amplitude of a signal is measured and stored as an integer value; the wave is then represented in the computer in digital form as a sequence of sampled numerical amplitudes.
+Sampling Rate:The time interval between sampling points.
+Scientific Notation:A way to represent real numbers as a mantissa times a base to an exponential power.
+Sequential Circuit:Circuit that contains feedback loops in which the output of a gate is fed back as input to an earlier gate.
+Sign/Magnitude notation:A way to represent signed integer values in which one bit is used to represent the sign and the remaining bits are used to represent the magnitude.
+Transistor:An electronic device that can be in an OFF state, which does not allow electricity to flow, or in an ON state, in which electricity can pass unimpeded; a transistor is a solid-state device that has no mechanical or moving parts.
+Truth Table:A table that contains columns labeled inputs that list the possible combinations of true/false values.
+Two's complement representation:A way to represent signed integer in which we count up from zero to represent positive values and we count down from zero to represent negative values.
+Unicode:Uses a 16-bit representation for characters.
+Agile software development:An approach to software development that emphasizes a flexible and ready response to meet a shifting target.
+Benchmarking:Running a program on many data sets to be sure its performance falls within required limits; timing the same algorithm on two different machines.
+Code library:A collection of thoroughly tested object code for various useful tasks.
+Coding:The process of translating the detailed designs into computer code.
+Divide-and-conquer:A program design strategy in which tasks are broken down into subtasks, which are broken down into sub-subtasks, and so on, until each piece is small enough to code comfortably. These pieces work together to accomplish the total job.
+Empirical testing:Designing a special set of test cases and running the program using these test data.
+Executable module:The resulting object code after a linker inserts requested code from code libraries.
+External documentation:Any materials assembled to clarify the program's design and implementation.
+Feasibility study:A step in the software development life cycle that evaluates a proposed project and compares the costs and benefits of various solutions.
+Integrated development environment (IDE):A collection of programs that support software development, such as debuggers, editors, toolkits, and libraries, that lets programmers perform several tasks within the shell of a single application.
+Integration testing:After unit testing, integration testing is done to see that the modules communicate the necessary data between and among themselves and that all modules work together smoothly.
+Internal documentation:Documentation that is part of the program code itself.
+Logic error:An error in the algorithm used to solve a problem.
+Object code:Machine language instructions.
+Pair programming:Involves two programmers at a single workstation. At any given point in time, one is writing code and the other is actively observing, watching for possible errors but also thinking about the overall approach.
+Problem specification:A step in the software development life cycle that involves developing a clear, concise, and unambiguous statement of the exact problem the software is to solve.
+Procedural language:A program written in a procedural language consists of sequences of statements that manipulate data items.
+Program design phase:A step in the software development life cycle that plans the structure of the software to be written.
+Program maintenance:The process of adapting an existing software product due to errors, new system requirements, or changing user needs.
+Program verification:Used to prove that if the input data to a program satisfies certain conditions, then, after the program has been run on these data, the output data satisfies certain other conditions.
+Regression testing:If anything is changed on an already-tested module, regression testing is done to be sure that this change has not introduced a new error into code that was previously correct.
+Runtime error:An error that occurs when the program is run using certain sets of data that result in some illegal operation, such as dividing by zero.
+Semantics:The meaning of correctly written programming statements.
+Source code:High-level language instructions.
+Syntax error:An error that occurs because a program statement fails to follow the correct
+rules of syntax.
+Technical documentation:Documentation that enables programmers who later have to modify the program to understand the code.
+Third-generation language:Another name for high-level programming language as opposed to machine language (first generation) or assembly language (second generation).
+Top-down decomposition:A program design strategy in which tasks are broken down into subtasks, which are broken down into sub-subtasks, and so on, until each piece is small enough to code comfortably. These pieces work together to accomplish the total job.
+Syntax:The rules for exactly how programming statements must be written; the grammatical structure of a programming language
+Application:(Java) A complete standalone program that resides and runs on a self-contained computer.
+External library:A well-written, efficient, and thoroughly tested code module that is separately compiled and then drawn on by any program that wishes to use its capabilities.
+Functional programming languages:Views every task in terms of functions. In this context, function means something like a mathematical function—a recipe for taking an argument (or possibly several arguments) and doing something with them to compute a single value.
+Knowledge base:Facts and rules about a certain domain of interest.
+Open source:Software whose source code is freely available and may be used, distributed, or modified by anyone.
+Recursive:Something that is defined in terms of "smaller versions" of itself.
+Computational model:A model constructed using algorithmic procedures implemented as computer programs.
+Computational steering:A procedure for using a computational model to improve the design of an actual system by continually resetting model parameters to improve system performance.
+Computer graphics:The field of computer science that examines the technical problems of displaying visual images on a computer screen.
+Continuous model:A model of a system using mathematical equations that describe system performance as a continuous function of time t.
+Discrete event simulation:A computational modeling technique that simulates the behavior of a system only at discrete points in time.
+Garbage in, garbage out:The term for the fact that the output coming out of a computer model is only as accurate as the assumption used to build the model.
+Scientific visualization:The use of images and visualization techniques to make scientific data easier to interpret and understand.
+Simulation model:Another term for a computational model.
+Statistical distribution:This is a mathematical function that describes the probability of a random quantity taking on certain values.
+Stochastic components:Parts of a model that display random behavior.
+Uniform random number:Every value in the range from a to b has the same chance of occurring.
+Analogy:Arguing about a problem by comparing it to a related problem, which you claim is very similar in terms of its ethical implications and consequences.
+Consequentialism:A school of thought in ethics that focuses on the consequences of an act to determine if the act is good or bad.
+Cyberbullying:Humiliating, taunting, threatening or invading someone's privacy using the Internet, Web, or other type of electronic technology.
+Ethics:The study of how to decide if something is morally right or wrong.
+Hacktivism:Hacking that is intended as political activism.
+Peer-to-peer file sharing:The sharing of files between two equal participants on a network. This is distinct from the client-server model in which the two sides serve very different roles--one side only sending information (the server) and the other side only receiving information (the client).
+Computer science:The study of algorithms, including their mathematical properties, hardware and linguistic realizations, and their applications.
+Computing agent:The entity (machine, robot, person, or thing) that executes the steps of an algorithm.
+High-level programming language:A programming language that uses both natural language constructs and mathematical notation.
+Infinite loop:The repetitive execution of a block of operations that will never end. This is a fatal error when it occurs in an algorithm.
+Sequential operation:An algorithmic operation that carries out a single task and then moves on to the next operation in sequence.
+Algorithm discovery:The process of finding an algorithmic solution to a given problem. Computation: An algorithmic operation that carries out a single numeric computation and stores the result.
+Computation:An algorithmic operation that carries out a single numeric computation and stores the result.
+Conditional statements:Operations that ask a question and select the next instruction to carry out based on the answer to that question.
+Continuation condition:The true/false condition that will determine when the iteration has been completed.
+Control operations:Operations that alter the normal sequential flow of control within an algorithm.
+Input:An operation that causes data values from the outside world to be brought into the algorithm.
+Iteration:The repetitive execution of a block of operations.
+Output:An operation that causes computed values to be sent to the outside world for viewing or saving.
+Primitive operation:An operation that can be directly understood by the computing agent executing the algorithm and which does not have to be further clarified or explained.
+Pseudocode:A notation used to design algorithms. It uses English constructs, mathematical notation and an informal algorithmic structure designed to look like a high-level programming language.
+Sorting:The task of putting a list of values into numeric or alphabetical order.
+Boolean expression:An expression that can evaluate only to true or false.
+Gigabyte:One billion bytes.
+Program:an algorithm that is written in a programming language that runs on a computer
+Control Structures:a block of programming that determines which part of the program is executed next. There are three types of structures: sequence, selection, and repetition.
+Computational Artifact:an object created by a human being that involves the use of computation in some way, for example a mobile app or a web page.
+Event Driven Programming:a programming approach whereby the program's behavior is controlled by writing code that responds to various events that occur, such as Button clicks.
+Hardware:the large and small physical components that make up a computers such as the computer's keyboard or its processor.
+Software:the computer programs that make up a computer system such as the mobile apps we will be creating in this course.
+Abstraction:one of the seven big ideas of the CS Principles curriculum. An abstraction is a simplified and general representation of some complex object or process. One example --we'll encounter many in this course, including abstractions used in computer programming -- would be a Google map.
+Binary Number:a number written in the binary system, a system that uses only two digits, 0s and 1s.
+Blacklist:in internet terminology, a generic term for a list of email addresses or IP addresses that are origination with known spammers
+Character:any symbol that requires one byte of storage
+Cyberspace:a metaphor for describing the non-physical terrain created by computer systems
+Data:data is distinct information that is formatted in a special way. Data exists in a variety of forms, like text on paper or bytes stored in electronic memory
+Data Center:are physical or virtual infrastructures used by enterprises to house computer, server and networking systems and components for the company's IT (information technology) needs
+Data Network:a telecommunications network which allows computers to exchange data
+Disk Drive:a randomly addressable and rewritable storage device
+Intellectual Property:refers to any property that is created using original thought. Traditional intellectual property include patents, copyrights, and trademarks.
+Network:a group of two or more computer systems linked together
+Processor:short for microprocessor or CPU
+Social Networking:a social structure made of nodes that are generally individuals or organizations. A social network represents relationships and flows between people, groups, organizations, animals, computers, or other information/knowledge processing entities
+Whitelist:a generic name for a list of email address or IP addresses that are considered to be spam free
+Analog:a device or system that represents changing values as continuously variable physical quantities
+ASCII:a code for representing English characters as numbers, with each letter assigned a number from 0 to 127
+Cloud Computing:comparable to grid computing, cloud computing relies on sharing resources rather than having local servers handle applications.
+Cryptography:the art of protecting information by transforming it into an unreadable format, called cipher text
+Digital:any system based on discontinuous data or events. Computers are digital machines because at the basic level they can distinguish between just two values, 0 and 1.
+Digital Signal Processing:(DSP) refers to manipulating analog information
+Download:to copy data (usually an entire file) from a main source to a peripheral device
+Megabyte:used to describe data storage, 1,048,576 bytes (abbreviated MB)
+Megapixel:one million pixels, used in reference to the resolution of a graphics device
+Modeling:process of representing a real-world object of phenomenon as a set of mathematical equations.
+OCR:optical character recognition, the branch of computer science that involves reading text from paper and translating the images into a form that the computer can manipulate
+Raster:the rectangular area of a display screen actually being used to display images
+Render:refers to the process of adding realism to a computer graphics by adding 3-D qualities, such as shadows and variations in color and shade.
+Spam:spam is electronic junk mail or junk newsgroup postings
+Steganography:the art and science of hiding information by embedding messages within other, seemingly harmless messages
+Upload:to transmit data from a computer to a bulletin board service, mainframe, or network.
+Bit:Single unit of information on a computer represent as a 0 or 1
+Bit Rate:The number of bits that are conveyed or processed per unit of time
+Latency:The time it takes for a signal to arrive
+Bandwidth:Transmission capacity, measured by bit rate
+Fiberoptics:Method of transmitting data that utilizes light
+Copper Wire:Method of transmitting data that utilizes electricity
+WiFi:A wireless networking technology that utilizes radio waves to transmit information/data
+Prototype:A preliminary sketch of an idea or model for something new. It's the original drawing from which something real might be built or created.
+IP Address:A number assigned to any item that is connected to the Internet.
+Packets:Small chunks of information that have been carefully formed from larger chunks of information.
+Router:A computer which receives messages travelling across a network and redirects them towards their intended destinations based on the addressing information included with the message.
+Transmission Control Protocol (TCP):Provides reliable, ordered, and error-checked delivery of a stream of packets on the internet. TCP is tightly linked with IP and usually seen as TCP/IP in writing.
+Domain Name System (DNS):An abbreviation for Domain Name System, the Internet's system for converting alphabetic names into numeric IP addresses.
+Hypertext Transfer Protocol (HTTP):The protocol used by the World Wide Web. It describes how messages are formatted and interchanged, and how web servers respond to commands.
+Server:A computer that awaits and responds to requests for data.
+Client:A computer that requests data stored on a server.
+Net Neutrality:The principle that Internet service providers should enable access to all content and applications regardless of the source, and without favoring or blocking particular products or websites.
+Internet Censorship:The control or suppression of what can be accessed, published, or viewed on the Internet. It may be carried out by governments or by private organizations at the behest of government, regulators, or on their own initiative.
+Node:Vertex; Represented by a labeled circle
+Edge:A line connecting two nodes
+Cost:Weight; The number associated with an edge that indicates distance, time, or estimated cost
+Cycle:A set of edges that begin at one node and can be followed through other nodes back where you started
+Efficiency:A measure of the number of steps per input size needed to complete an algorithm
+Routing Table:A data table stored in a router that lists the routes to particular network destinations
+Minimum Spanning Tree:Dictates the shortest aggregate path from one node to every node
+Internet Engineering Task Force (IETF):A group of volunteers, private citizens, government officials, etc. who promote internet standards
+Algorithm:A precise sequence of instructions for processes that can be executed by a computer
+Function:A piece of code that you can easily call over and over again.
+API:a collection of commands made available to a programmer
+Documentation:a description of the behavior of a command, function, library, API, etc.
+Parameter:An extra piece of information that you pass to the function to customize it for a specific need
+For Loop:A particular kind of looping construct provided in many languages. Typically, a for loop defines a counting variable that is checked and incremented on each iteration in order to loop a specific number of times.
+Loop:The action of doing something over and over again.
+Byte:technical term for 8 bits of data
+Kilobyte (KB):1000 bytes
+Megabyte (MB):1,000 kilobytes
+Terabyte (TB):1,000 gigabytes
+Petabyte (PB):1,000 terabytes
+bmp:(bitmap image file or bitmap) is a raster graphics image file format used to store digital images.
+Gif:(acronym for Graphics Interchange Format) a bitmap image format which uses the LZW lossless data compression technique to reduce the file size without degrading the visual quality. Supports 8 bits per pixel for each image and animations.
+Jpg or .jpeg:(acronym for Joint Photographic Experts Group), a commonly used lossy compression format for digital images, particularly for those images produced by digital photography. The format supports adjustable degrees of compression.
+Mp3:an audio coding format for digital audio which uses a form of lossy data compression which works by reducing (or approximating) certain components of the audio that are considered to be beyond audible human hearing.
+Wav:(Waveform Audio File Format) an audio coding format standard for storing an audio bitstream of uncompressed audio data.
+Txt:a computer format that is structured as a sequence of lines of electronic text.
+Zip:an archive file format that supports lossless data compression; may contain one or more files or directories.
+Png:(Portable Network Graphics) a raster graphics file format that supports lossless data compression.
+Heuristic:a problem solving approach (algorithm) to find a satisfactory solution where finding an optimal or exact solution is impractical or impossible.
+Image:A type of data used for graphics or pictures.
+Metadata:Data that describes other data. For example, a digital image my include metadata that describe the size of the image, number of colors, or resolution.
+Pixel:Short for "picture element" it is the fundamental unit of a digital image, typically a tiny square or dot which contains a single point of color of a larger image.
+Hexadecimal Number System:A number system consisting of 16 distinct symbols — 0-9 and A-F — which can occur in each place value.
+Lossless:A compression scheme in which every bit of the original data can be recovered from the compressed file.
+Lossy:A compression scheme in which "useless" or less-than-totally-necessary information is thrown out in order to reduce the size of the data. The eliminated data is unrecoverable.
+RGB:the color model that uses varying intensities of (R)ed, (G)reen, and (B)lue light added together in order to reproduce a broad array of colors.
+File extensions:the endings of file names that indicate to the computer the format for how the underlying bits are organized.
+Computationally Hard Problem:A problem that can not be solved in a reasonable amount of time. Heuristics are often used to create an approximate or good enough solution.
+Innovation:A novel or improved idea, device, product, etc. or the development thereof
+Moore's Law:the observation that computing power roughly doubles every two years.
+Big Data:a broad term for datasets so large or complex that traditional data processing applications are inadequate.
+Cipher:the generic term for a technique (or algorithm) that performs encryption
+Cracking encryption:When you attempt to decode a secret message without knowing all the specifics of the cipher.
+Decryption:a process that reverses encryption, taking a secret message and reproducing the original plain text
+Encryption:a process of encoding messages to keep them secret, so only "authorized" parties can read it.
+Asymmetric encryption:used in public key encryption, it is scheme in which the key to encrypt data is different from the key to decrypt.
+Public Key Encryption:Used prevalently on the web, it allows for secure messages to be sent between parties without having to agree on, or share, a secret key. It uses an asymmetric encryption scheme in which the encryption key is made public, but the decryption key is kept private.
+Digital Divide:the gulf between those who have ready access to computers and the Internet, and those who do not.
+Hypothesis:A proposed explanation for some phenomenon used as the basis for further investigation.
+Search Trends:Comparison of the popularity of topical queries in an online search engine as they relate to time.
+Visualization:Images, diagrams, tables, etc created from information extracted from a given data set, with the express intention of highlighting a data story.
+Pivot Table:The name of the tool used by most spreadsheet programs to create a summary table.
+README:A document providing background information about a dataset.
+CSV:Abbreviation of "comma-separated values," this is a widely-used format for storing data.
+Raw data:The original data as it was collected.
+Summary table:A table of aggregate information about a dataset (e.g., the average, sum, count of some values).
+Filter:tool/technique using dynamic parameters for reducing a data set to viewing only similar items in a row or column.
+Aggregation:A computation in which rows from a data set are grouped together and used to compute a single value of more significant meaning or measurement. Common aggregations include: Average, Count, Sum, Max, Median, etc.
+Binary question:a question where there are only two possible answers
+Protocol:A set of rules governing the exchange or transmission of data between devices.
+ASCIII:The universally recognized raw text format that any computer can understand
+American Standard Code for Information Interchange:What does ASCII stand for? (cap first letter)
+code:(slang) to write instructions for a computer
+Redundancy:repetition of information or the inclusion of additional information to reduce errors in transmission.
+DNS:The service that translates URL's to IP addresses
+Domain name service:DNS stands for...
+HTTP:the protocol used for transmitting web pages over the internet
+Hypertext transfer protocol:HTTP stands for...
+TCP:provides reliable, ordered and error checked delivery of a stream of packets in the internet
+URL:an easy to remember address for calling a web page
+Octal:The octal number system is base 8, using only digits 0 through 7.
+Decimal:Traditional number system using digits 0-9.
+Iterative innovation:Incremental or small improvement to an item
+Novel innovation:Improvement that is new, creative and has not been done before "outside the box thinking."
+Vint Cerf:Internet pioneer who believed the Internet should be free and available to everyone
+Higher lower:__________ level protocols use _______ levels without needing to understand precisely how they work. (space between each term)
+Lower higher:_________ level protocols guarantee __________ level protocols will function without stating specifically how this will be accomplished.
+Creative Commons:one of several public copyright licenses that enable the free distribution of an otherwise copyrighted work. A CC license is used when an author wants to give people the right to share, use, and build upon a work that they have created.
+High Level Programming Language:A programming language that enables a programmer to write programs that are more or less independent of a particular type of computer. Such languages are considered high-level because they are closer to human languages and further from machine languages. Examples: JavaScript, Java, FORTRAN
+Low Level Programming Language:A programming language that provides little or no abstraction from a computer's instruction set architecture—commands or functions in the language map closely to processor instructions. Generally this refers to either machine code or assembly language.
+Fault tolerant network:The ability to route around broken servers on the internet.
+Global Variable:A variable whose scope is "global" to the program, it can be used and updated by any part of the code. Its global scope is typically derived from the variable being declared (created) outside of any function, object, or method.
+If Statement:The common programming structure that implements "conditional statements".
+Local Variable:A variable with local scope is one that can only be seen, used and updated by code within the same scope. Typically this means the variable was declared (created) inside a function; includes function parameter variables.
+Callback function:a function specified as part of an event listener; it is written by the programmer but called by the system as the result of an event trigger.
+Event:An action that causes something to happen.
+User Interface:The visual elements of an program through which a user controls or communications the application. Often abbreviated UI.
+Data Type:(ex: Number, Boolean, or String) a value's property that dictates how the computer will interpret it. For example 7+5 is interpreted differently from "7"+"5"
+Expression:Any valid unit of code that resolves to a value.
+Variable:A placeholder for a piece of information that can change.
+Debugging:Finding and fixing problems in your algorithm or program.
+Conditionals:statements that run under only certain conditions
+Selection:A generic term for a type of programming statement (usually an if-statement) that uses a Boolean condition to determine, or select, whether or not to run a certain block of statements.
+Concatenate:to link together or join. Typically used when joining together text Strings in programming (e.g. "Hello, "+name)

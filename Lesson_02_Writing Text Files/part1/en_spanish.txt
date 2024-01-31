@@ -1,0 +1,227 @@
+stand up-se levánta
+sit down-se seinta
+fast-rápido
+slow-despacio
+walk-camina
+stop-para
+turn around-da una vuelta
+forward-para adelante
+backwards-para atris
+jump-salta
+raise-levanta
+lower-baja
+hand-la mano
+leg-la pierna
+shout-grita
+soft-suave
+loud; strong-fuerte
+touch-toca
+signal-señala
+hit-pega
+head-la cabeza
+mouth-la boca
+eyes-los ojos
+table-la mesa
+nose-la nariz
+girl-la muchacha/la chica
+boy-el muchacho/el chico
+chair-la silla
+floor/ground-el pisa
+ceiling-el techo
+door-la puerta
+window-la ventana
+eat-come
+fish-el pascado/el pez
+cry-llora
+laugh-ríe
+circle-un circulo
+triangle-un triangulo
+rectangle-un rectángulo
+write-escribe
+name-el nombre
+drawing-dibuja
+ear-la oreja
+knee-la rodilla
+car-el carro
+throw-tira
+ball-la pelota
+catch-atrapa
+board-la pizzara
+cut-corta
+with-con
+knife-el cuchillo
+big/large-grande
+small/little-pequeño
+arm-el brazo
+gives him/her-le da
+to the right-a la derecha
+to the left-a la izquierda
+hair-el pelo
+foot-el pie
+chest-el pecho
+clock/watch-el reloj
+looks at-mira
+grabs-agarra
+pull-jala
+let go-suelta
+shoulder-el hombro
+neck-el cuello
+pencil-el lapíz
+pen-la pluma/el bolígrafo
+face-la cara
+line-la línea
+crooked-chueco(a)
+straight-recto(a)
+light-la luz
+desk-escritorio
+take-toma
+soda/pop-la soda
+beer-la cervezo
+good-bueno(a)
+bad-malo(a)
+newspaper-el periódico
+on top of; over-sobre
+house-la casa
+cat-el gato
+green-verde
+red-rojo(a)
+blue-azul
+white-blanco(a)
+black-negro(a)
+yellow-amarillo(a)
+orange-anaranjado
+magazine-la revista
+run-corre
+up-arriba
+paper-el papel
+little boy-el niño
+little girl-la niña
+cup-la taza
+book-el libro
+tell me-dime
+address-la dirección
+meat-la carne
+fork-el tenedor
+hammer-el martillo
+What is it?-¿Qué es?
+Who is it?-¿Quién es?
+ground/floor-el suelo
+automobile-el automóvil
+jump-brinca
+walk-anda
+drive-maneja (un carro)
+banana-el plátano
+peel-pela
+put-pon
+puts-pone
+elbow-el codo
+finger-el dedo
+belly button-el ombligo
+scissors-las tijeras
+open-abre
+close-cierra
+tongue-la lengua
+teeth-los dientes
+stick out your tongue-saca la lengua
+one time (once)-una vez
+two times (twice)-dos veces
+all (everybody)-todo(s)
+soft drink-el refresco
+drink (eat)-toma
+drink-bebe
+a little bit-un poco
+smile-sonríe
+under-debajo de
+above-arriba de
+camera-la cámara
+take photos of-saca fotos de
+shirt-la camisa
+pants-los pantalones
+let go of-suelta de
+glass-el vasa
+water-el agua
+around the class-alrededor de la clase
+turn on-prende (la luz)
+turn off-apaga
+blender-la licuadora
+milkshake-un batido
+listen (to)-escucha
+dog-el perro
+orange-la naranja
+juice-el jujo
+fruit-la fruta
+Where is?-¿Dónde está ______?
+kiss-besa
+a kiss-un beso
+ankle-el tobillo
+push-empuja
+cough-tose
+cheek-la mejilla
+key-la llave
+pull out-orranca
+tie-la corbata
+milk-la leche
+chocolate-el chocolate
+bottle-la botella
+radio-la radio
+TV-la tele/la television
+enter-entra en
+leave/go out-sale de
+is happy-está feliz
+is sad-está triste
+is sick-está enfermo(a)
+is mad-está enojado(a)
+count-cuenta
+finger nail-la uña
+shoes-los zapatos
+smells bad-nuele mal
+smells good-nuele bien
+present-el regalo
+horse-el caballo
+ride a horse-monta a caballo
+hug-abraza
+towel-la toalla
+clean-limpio(a)
+dirty-sucio(a)
+spoon-la cuchara
+soup-la sopa
+bowl-el tazón
+doll-la muñeca
+yellow book-el libro amarillo
+yellow pen-la pluma amarilla
+medium sized-mediano(a)
+break-rompe
+is tired-está cansado(a)
+ask a question-pregunta
+answer-contesta
+hallway-el pasillo
+pink-rosa/rosado(a)
+pour-echa
+says or tells-dice
+tea-el té
+coffee or coffee shop-el café
+menu-el menú
+meanwhile-mientras
+so or therefore-así que
+egg-el huevo
+air plane-el avión
+the bell rings-la campana suena
+Monday-lunes
+Tuesday-martes
+Wednesday-miércoles
+Thursday-jueves
+Friday-viernes
+Saturday-sábado
+Sunday-domingo
+January-enero
+February-febrero
+March-marzo
+April-abril
+May-mayo
+June-junio
+July-julio
+August-agosto
+September-septiembre
+October-octubre
+November-noviembre
+December-diciembre
