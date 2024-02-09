@@ -12,4 +12,7 @@ with open(file_path,newline='') as file:
             last,first = row[1].split(', ')
             writer.writerow([first,last])
     
-    
+data =[]
+for row in reader:
+    data.append(row)
+    print(data)
